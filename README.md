@@ -58,7 +58,9 @@ To do this open the control panel, select Programs and then click Turn Windows f
 </p>
 <br />
 
-<h2>Step 3.</h2> Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) 
+<h2>Step 3.</h2> 
+
+**Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)**
 <p>
 <p>
 <img src="https://imgur.com/WxftCi4.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
@@ -67,7 +69,9 @@ To do this open the control panel, select Programs and then click Turn Windows f
 </p>
 <br />
 
-<h2>Step 4.</h2> Download and install Rewrite Module (rewrite_amd64_en-US.msi)
+<h2>Step 4.</h2> 
+
+**Download and install Rewrite Module (rewrite_amd64_en-US.msi)**
 <p>
 <p>
 <img src="https://imgur.com/3JxWkZg.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
@@ -76,7 +80,11 @@ To do this open the control panel, select Programs and then click Turn Windows f
  </p>
 <br />
 
-<h2>Step 5.</h2>  Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip). Next create the directory C:\PHP. To do this go to the C:\ drive and create a new folder in it named PHP. Now unzip the contents of PHP 7.3.8 into C:\PHP.
+<h2>Step 5.</h2>  
+
+**Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip).** 
+<p>
+Next create the directory C:\PHP. To do this go to the C:\ drive and create a new folder in it named PHP. Now unzip the contents of PHP 7.3.8 into C:\PHP.
 <p>
 <p>
 <img src="https://imgur.com/q3GhlI2.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> 
