@@ -314,14 +314,15 @@ osTicket setup is now complete! You can log in as the administrator using the fo
 
 **Install Cleanup.**
 <p>
-Delete the "setup" folder located here C:\inetpub\wwwroot\osTicket. Finally set Permissions to “Read” only for the ost-config.php file located here: C:\inetpub\wwwroot\osTicket\include\ost-config.php. All done, good job!!!
+Delete the "setup" folder located here C:\inetpub\wwwroot\osTicket. Finally set Permissions to “Read” only for the ost-config.php file located here: C:\inetpub\wwwroot\osTicket\include\ost-config.php. 
 <p>
 <p>
 <p>
 <img src="https://imgur.com/7Pu1Ijv.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 <img src="https://imgur.com/EqLyFJM.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-
 </p>
 <p>
 </p>
 <br />
+
+<h2>All done, good job!!!</h2>
