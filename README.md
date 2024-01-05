@@ -120,7 +120,7 @@ Now let's configure MySQL, a popular open source database. Download and install 
 
 **Open Internet Information Services (IIS) as an Admin**
 <p>
-(Go to the start menu and type IIS, right click on it and select Run as Administrator).
+Go to the start menu and type IIS, right click on it and select Run as Administrator.
 <p>
 <p>
 <img src="https://imgur.com/V9X2VDG.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
@@ -133,7 +133,7 @@ Now let's configure MySQL, a popular open source database. Download and install 
 
 **Register PHP Manager**
 <p>
-Select PHP Manager from within IIS and click on Register new PHP version. In the Register new PHP window, select the CGI file that we installed in step 2. Now restart the IIS server by clicking on Restart in the upper right hand corner of the IIS window (as shown in the screenshot above).
+Select PHP Manager from within IIS and click on Register new PHP version. In the Register new PHP window, select the CGI file that we installed in step 2. Now restart the IIS server by clicking on Restart in the upper right hand corner of the IIS window (as shown in the screenshot below).
 <p>
 <p>
 <img src="https://imgur.com/SxczZ54.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/0oXHWnI.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>  
@@ -155,7 +155,11 @@ Now it's time to install osTicket. First download osTicket v1.15.8. From that do
 </p>
 <br />
 
-<h2>Step 11.</h2> We can now open the osTicket install window by going to the IIS -> selecting the drop down folder under Connections (on the left side of the window) -> go to sites -> Default -> osTicket. Now click on “Browse *:80” under the browse folder all the way on the right. This will open a new web browser window with the osTicket installer menu.
+<h2>Step 11.</h2> 
+
+**Open osTicket Install Window**
+<p>
+We can now open the osTicket install window by going to the IIS -> selecting the drop down folder under Connections (on the left side of the window) -> go to sites -> Default -> osTicket. Now click on “Browse *:80” under the browse folder all the way on the right. This will open a new web browser window with the osTicket installer menu.
 <p>
 <p>
 <img src="https://imgur.com/TFlaKlJ.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/31tJJAG.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
