@@ -176,7 +176,11 @@ We can now open the osTicket install window by going to the IIS -> selecting the
 </p>
 <br />
 
-<h2>Step 12.</h2> Enable extensions for the osTicket installer (Note that some extensions are not enabled in the installer screen above). Go back to IIS, sites -> Default -> osTicket. Now double-click PHP Manager -> Click “Enable or disable an extension” and enable the following extensions: <p> <h4>php_imap.dll</h4> <p>  <h4>php_intl.dll</h4> <p></p>  <h4>php_opcache.dll</h4>
+<h2>Step 12.</h2> 
+
+**Enable Extensions for the osTicket Installer**
+<p>
+Note that some extensions are not enabled in the installer screen above. Go back to IIS, sites -> Default -> osTicket. Now double-click PHP Manager -> Click “Enable or disable an extension” and enable the following extensions: <p> <h4>php_imap.dll</h4> <p>  <h4>php_intl.dll</h4> <p></p>  <h4>php_opcache.dll</h4>
 <p>
 <p>
 <img src="https://imgur.com/NClJXyl.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
