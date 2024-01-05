@@ -92,7 +92,9 @@ Next create the directory C:\PHP. To do this go to the C:\ drive and create a ne
 <p>
 <br />
 
-<h2>Step 6.</h2>  Download and install VC_redist.x86.exe (Microsoft Visual C ++)
+<h2>Step 6.</h2>  
+
+**Download and install VC_redist.x86.exe (Microsoft Visual C ++)**
 <p>
 <p>
 <img src="https://imgur.com/55Z0SVc.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
@@ -101,7 +103,11 @@ Next create the directory C:\PHP. To do this go to the C:\ drive and create a ne
 </p>
 <br />
 
-<h2>Step 7.</h2>  Now let's configure MySQL, a popular open source database. Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi). Select Typical Setup when prompted and check the box for Launch Configuration Wizard (after install). Choose Standard Configuration -> Install as Windows Service -> choose a password and finish the install.
+<h2>Step 7.</h2> 
+
+**Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi).**
+<p> 
+Now let's configure MySQL, a popular open source database. Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi). Select Typical Setup when prompted and check the box for Launch Configuration Wizard (after install). Choose Standard Configuration -> Install as Windows Service -> choose a password and finish the install.
 <p>
 <p>
 <img src="https://imgur.com/9CGk2QI.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/o6j4UuT.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/VGilvlV.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/vNEISe8.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/84OcpT4.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> 
@@ -110,7 +116,11 @@ Next create the directory C:\PHP. To do this go to the C:\ drive and create a ne
 </p>
 <br />
 
-<h2>Step 8.</h2>  Open Internet Information Services (IIS) as an Admin (Go to the start menu and type IIS, right click on it and select Run as Administrator).
+<h2>Step 8.</h2>  
+
+**Open Internet Information Services (IIS) as an Admin**
+<p>
+(Go to the start menu and type IIS, right click on it and select Run as Administrator).
 <p>
 <p>
 <img src="https://imgur.com/V9X2VDG.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
@@ -119,7 +129,11 @@ Next create the directory C:\PHP. To do this go to the C:\ drive and create a ne
 </p>
 <br />
 
-<h2>Step 9.</h2> Select PHP Manager from within IIS and click on Register new PHP version. In the Register new PHP window, select the CGI file that we installed in step 2. Now restart the IIS server by clicking on Restart in the upper right hand corner of the IIS window (as shown in the screenshot above).
+<h2>Step 9.</h2> 
+
+**Register PHP Manager**
+<p>
+Select PHP Manager from within IIS and click on Register new PHP version. In the Register new PHP window, select the CGI file that we installed in step 2. Now restart the IIS server by clicking on Restart in the upper right hand corner of the IIS window (as shown in the screenshot above).
 <p>
 <p>
 <img src="https://imgur.com/SxczZ54.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/0oXHWnI.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>  
@@ -128,8 +142,11 @@ Next create the directory C:\PHP. To do this go to the C:\ drive and create a ne
 </p>
 <br />
 
-<h2>Step 10.</h2> Now it's time to install osTicket. First download osTicket v1.15.8. From that download copy the folder labeled "upload" and paste it in this directory c:\inetpub\wwwroot. Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”. Go back to the IIS window and restart the IIS server again by clicking the Restart button in the upper right corner.
+<h2>Step 10.</h2>
 
+**Install osTicket**
+<p>
+Now it's time to install osTicket. First download osTicket v1.15.8. From that download copy the folder labeled "upload" and paste it in this directory c:\inetpub\wwwroot. Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”. Go back to the IIS window and restart the IIS server again by clicking the Restart button in the upper right corner.
 <p>
 <p>
 <img src="https://imgur.com/ujtdN5L.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/anH14w0.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
