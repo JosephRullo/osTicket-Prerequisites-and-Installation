@@ -32,7 +32,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 
-<h2>Step 1.</h2> Let's begin with creating a virtual machine running Window's 10 with 2-4 virtual cpu's in Microsoft Azure. Note, this step can be skipped if you are installing it on your physical PC at your work location.
+<h2>Step 1.</h2> 
+
+**Create Azure Virtual Machine** 
+<p>
+Let's begin with creating a virtual machine running Window's 10 with 2-4 virtual cpu's in Microsoft Azure. Note, this step can be skipped if you are installing it on your physical PC at your work location.
 <p>
 <p>
 <img src="https://i.imgur.com/U1HVP9X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -41,7 +45,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<h2>Step 2.</h2> Install / Enable IIS in Windows with CGI and Common HTTP Features. To do this open the control panel, select Programs and then click Turn Windows features on or off. From here expand the folder labeled Internet Information Services -> Web Management Tools and check the box for IIS Management Console. Do the same for the folder labeled Internet Information Services -> World Wide Web Services -> Application Development Features and check the box for CGI, as well as checking the Common HTTP Features folder.
+<h2>Step 2.</h2> 
+
+**Install / Enable IIS in Windows with CGI and Common HTTP Features.** 
+<p>
+To do this open the control panel, select Programs and then click Turn Windows features on or off. From here expand the folder labeled Internet Information Services -> Web Management Tools and check the box for IIS Management Console. Do the same for the folder labeled Internet Information Services -> World Wide Web Services -> Application Development Features and check the box for CGI, as well as checking the Common HTTP Features folder.
 <p>
 <p>
 <img src="https://imgur.com/ylDKgJO.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/ZCyA8PW.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
