@@ -198,7 +198,11 @@ Note that some extensions are not enabled in the installer screen above. Go back
 </p>
 <br />
 
-<h2>Step 13.</h2> Refresh the osTicket site in your browser, observe the changes in the enabled extensions.
+<h2>Step 13.</h2> 
+
+**Refresh the osTicket Site in your Browser**
+<p>
+observe the changes in the enabled extensions.
 <p>
 <p>
 <img src="https://imgur.com/IpbTHjx.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
@@ -207,7 +211,11 @@ Note that some extensions are not enabled in the installer screen above. Go back
 </p>
 <br />
 
-<h2>Step 14.</h2> Rename ost-sampleconfig.php. From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php change this to: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+<h2>Step 14.</h2> 
+
+**Rename ost-sampleconfig.php.**
+<p>
+From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php change this to: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 <p>
 <p>
 <img src="https://imgur.com/yNfnyMz.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
@@ -216,7 +224,11 @@ Note that some extensions are not enabled in the installer screen above. Go back
 </p>
 <br />
 
-<h2>Step 15.</h2> Assign Permissions: ost-config.php. Right click on C:\inetpub\wwwroot\osTicket\include\ost-config.php and select Properties. Go to the Security tab and choose Advanced. In the Advanced tab click on Disable inheritance and select Remove All Permissions.
+<h2>Step 15.</h2> 
+
+**Assign Permissions: ost-config.php.**
+<p>
+Right click on C:\inetpub\wwwroot\osTicket\include\ost-config.php and select Properties. Go to the Security tab and choose Advanced. In the Advanced tab click on Disable inheritance and select Remove All Permissions.
 <p>
 <p>
 <p>
@@ -226,7 +238,11 @@ Note that some extensions are not enabled in the installer screen above. Go back
 </p>
 <br />
 
-<h2>Step 16.</h2> Assign Permissions (continued): ost-config.php. Right click on C:\inetpub\wwwroot\osTicket\include\ost-config.php and select Properties. Go to the Security tab and choose Edit. In the Edit tab set Principal to Everyone -> Type: Allow -> Check all permission boxes.
+<h2>Step 16.</h2> 
+
+**Assign Permissions (continued):**
+<p>
+Right click on C:\inetpub\wwwroot\osTicket\include\ost-config.php and select Properties. Go to the Security tab and choose Edit. In the Edit tab set Principal to Everyone -> Type: Allow -> Check all permission boxes.
 <p>
 <p>
 <p>
@@ -236,7 +252,11 @@ Note that some extensions are not enabled in the installer screen above. Go back
 </p>
 <br />
 
-<h2>Step 17.</h2>  Download and install HeidiSQL (This will allow us to connect to the MySQL sever and setup a database that osTicket will use.) After downloading and installing, Open Heidi SQL -> Click "New" on the bottom left corner to create a new session -> For the username type "root" and enter the same password used for MySQL that was created in step 7 -> Click "Open". Now we will create a new database named osTicket. To do this right click on the "Unamed" tab on the left hand side of the HeidiSQL window and select "Create new" -> select "Database" -> name it "osTicket" -> click ok.
+<h2>Step 17.</h2>  
+
+**Download and install HeidiSQL**
+<p>
+This will allow us to connect to the MySQL sever and setup a database that osTicket will use. After downloading and installing, Open Heidi SQL -> Click "New" on the bottom left corner to create a new session -> For the username type "root" and enter the same password used for MySQL that was created in step 7 -> Click "Open". Now we will create a new database named osTicket. To do this right click on the "Unamed" tab on the left hand side of the HeidiSQL window and select "Create new" -> select "Database" -> name it "osTicket" -> click ok.
 <p>
 <p>
 <p>
@@ -248,7 +268,9 @@ Note that some extensions are not enabled in the installer screen above. Go back
 </p>
 <br />
 
-<h2>Step 18.</h2> Continue Setting up osTicket in the browser (click Continue).
+<h2>Step 18.</h2> 
+
+**Continue Setting up osTicket in the browser (click Continue).**
 <p>
 <p>
 <p>
@@ -258,7 +280,11 @@ Note that some extensions are not enabled in the installer screen above. Go back
 </p>
 <br />
 
-<h2>Step 19.</h2> Now fill out the information required for System Settings/Admin User/Database Settings. For the "System Settings" section enter a unique "Helpdesk Name" and "Default Email" of your choice (for this example I am simply using Helpdesk for the name and helpdesk@osTicket.com for the email.) For the "Admin User" section fill in the name of who will be assigned this role along with their email. Now assign their "Username" and "Password" for logging in (make sure to save this information somewhere secure). In the "Database Settings" section enter in the the "MySQL Database" field the database name we just created in HeidiSQL called "osTicket". For the the "MySQL Username" enter "root" and for the "MySQL Password" enter in the password you assigned in the previous steps. Finally click "Install Now".
+<h2>Step 19.</h2> 
+
+**Fill out the information required for System Settings/Admin User/Database Settings.**
+<p>
+For the "System Settings" section enter a unique "Helpdesk Name" and "Default Email" of your choice (for this example I am simply using Helpdesk for the name and helpdesk@osTicket.com for the email.) For the "Admin User" section fill in the name of who will be assigned this role along with their email. Now assign their "Username" and "Password" for logging in (make sure to save this information somewhere secure). In the "Database Settings" section enter in the the "MySQL Database" field the database name we just created in HeidiSQL called "osTicket". For the the "MySQL Username" enter "root" and for the "MySQL Password" enter in the password you assigned in the previous steps. Finally click "Install Now".
 <p>
 <p>
 <p>
@@ -268,7 +294,11 @@ Note that some extensions are not enabled in the installer screen above. Go back
 </p>
 <br />
 
-<h2>Step 20.</h2> Congratulations, osTicket setup is now complete! You can log in as the administrator using the following link: http://localhost/osTicket/scp/login.php
+<h2>Step 20.</h2> 
+
+**Congratulations**
+<p>
+osTicket setup is now complete! You can log in as the administrator using the following link: http://localhost/osTicket/scp/login.php
 <p>
 <p>
 <p>
@@ -280,7 +310,11 @@ Note that some extensions are not enabled in the installer screen above. Go back
 </p>
 <br />
 
-<h2>Step 21.</h2> Install Cleanup. Delete the "setup" folder located here C:\inetpub\wwwroot\osTicket. Finally set Permissions to “Read” only for the ost-config.php file located here: C:\inetpub\wwwroot\osTicket\include\ost-config.php. All done, good job!!!
+<h2>Step 21.</h2> 
+
+**Install Cleanup.**
+<p>
+Delete the "setup" folder located here C:\inetpub\wwwroot\osTicket. Finally set Permissions to “Read” only for the ost-config.php file located here: C:\inetpub\wwwroot\osTicket\include\ost-config.php. All done, good job!!!
 <p>
 <p>
 <p>
