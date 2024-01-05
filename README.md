@@ -52,7 +52,8 @@ Let's begin with creating a virtual machine running Window's 10 with 2-4 virtual
 To do this open the control panel, select Programs and then click Turn Windows features on or off. From here expand the folder labeled Internet Information Services -> Web Management Tools and check the box for IIS Management Console. Do the same for the folder labeled Internet Information Services -> World Wide Web Services -> Application Development Features and check the box for CGI, as well as checking the Common HTTP Features folder.
 <p>
 <p>
-<img src="https://imgur.com/ylDKgJO.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/ZCyA8PW.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ylDKgJO.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ZCyA8PW.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
