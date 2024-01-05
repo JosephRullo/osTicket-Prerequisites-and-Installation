@@ -141,7 +141,8 @@ Go to the start menu and type IIS, right click on it and select Run as Administr
 Select PHP Manager from within IIS and click on Register new PHP version. In the Register new PHP window, select the CGI file that we installed in step 2. Now restart the IIS server by clicking on Restart in the upper right hand corner of the IIS window (as shown in the screenshot below).
 <p>
 <p>
-<img src="https://imgur.com/SxczZ54.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/0oXHWnI.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>  
+<img src="https://imgur.com/SxczZ54.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> 
+<img src="https://imgur.com/0oXHWnI.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
 </p>
@@ -154,7 +155,8 @@ Select PHP Manager from within IIS and click on Register new PHP version. In the
 Now it's time to install osTicket. First download osTicket v1.15.8. From that download copy the folder labeled "upload" and paste it in this directory c:\inetpub\wwwroot. Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”. Go back to the IIS window and restart the IIS server again by clicking the Restart button in the upper right corner.
 <p>
 <p>
-<img src="https://imgur.com/ujtdN5L.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/anH14w0.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ujtdN5L.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/anH14w0.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -167,7 +169,8 @@ Now it's time to install osTicket. First download osTicket v1.15.8. From that do
 We can now open the osTicket install window by going to the IIS -> selecting the drop down folder under Connections (on the left side of the window) -> go to sites -> Default -> osTicket. Now click on “Browse *:80” under the browse folder all the way on the right. This will open a new web browser window with the osTicket installer menu.
 <p>
 <p>
-<img src="https://imgur.com/TFlaKlJ.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/31tJJAG.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/TFlaKlJ.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> 
+<img src="https://imgur.com/31tJJAG.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -224,7 +227,9 @@ We can now open the osTicket install window by going to the IIS -> selecting the
 <p>
 <p>
 <p>
-<img src="https://imgur.com/Wh0nI0L.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/pLptFCq.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/RQhSE7e.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<img src="https://imgur.com/Wh0nI0L.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/pLptFCq.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<img src="https://imgur.com/RQhSE7e.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 </p>
@@ -254,7 +259,8 @@ We can now open the osTicket install window by going to the IIS -> selecting the
 <p>
 <p>
 <p>
-<img src="https://imgur.com/cAi7a9i.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/0KMrBI5.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<img src="https://imgur.com/cAi7a9i.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/0KMrBI5.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 </p>
 </p>
 <p>
@@ -265,7 +271,8 @@ We can now open the osTicket install window by going to the IIS -> selecting the
 <p>
 <p>
 <p>
-<img src="https://imgur.com/7Pu1Ijv.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/EqLyFJM.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/7Pu1Ijv.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<img src="https://imgur.com/EqLyFJM.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
 </p>
 <p>
