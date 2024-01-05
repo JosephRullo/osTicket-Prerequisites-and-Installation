@@ -111,7 +111,11 @@ Next create the directory C:\PHP. To do this go to the C:\ drive and create a ne
 Now let's configure MySQL, a popular open source database. Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi). Select Typical Setup when prompted and check the box for Launch Configuration Wizard (after install). Choose Standard Configuration -> Install as Windows Service -> choose a password and finish the install.
 <p>
 <p>
-<img src="https://imgur.com/9CGk2QI.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/o6j4UuT.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/VGilvlV.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/vNEISe8.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/84OcpT4.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> 
+<img src="https://imgur.com/9CGk2QI.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/o6j4UuT.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> 
+<img src="https://imgur.com/VGilvlV.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> 
+<img src="https://imgur.com/vNEISe8.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> 
+<img src="https://imgur.com/84OcpT4.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 </p>
