@@ -233,7 +233,7 @@ Right click on C:\inetpub\wwwroot\osTicket\include\ost-config.php and select Pro
 <p>
 <p>
 <p>
-<img src="https://imgur.com/weqfFDW.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/orbsGci.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 </p>
@@ -247,7 +247,7 @@ Right click on C:\inetpub\wwwroot\osTicket\include\ost-config.php and select Pro
 <p>
 <p>
 <p>
-<img src="https://imgur.com/zXENjAX.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/racsNKa.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 </p>
