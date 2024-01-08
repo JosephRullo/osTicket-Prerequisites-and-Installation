@@ -36,7 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 **Create Azure Virtual Machine** 
 <p>
-Let's begin with creating a virtual machine running Window's 10 with 2-4 virtual cpu's in Microsoft Azure. Note, this step can be skipped if you are installing it on your physical PC at your work location.
+Let's begin with creating a virtual machine running Window's 10 with 2-4 virtual cpu's in Microsoft Azure. Note, this step can be skipped if you are installing it on a PC at your work location.
 <p>
 <p>
 <img src="https://i.imgur.com/U1HVP9X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
