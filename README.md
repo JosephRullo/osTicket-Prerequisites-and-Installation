@@ -19,7 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Microsoft Azure account (This entire installation will be performed on a virtual machine created in Microsoft's cloud computing platform.)
+- Microsoft Azure account 
 - PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
 - Rewrite Module (rewrite_amd64_en-US.msi) 
 - PHP 7.3.8 
@@ -36,7 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 **Create Azure Virtual Machine** 
 <p>
-Let's begin with creating a virtual machine running Window's 10 with 2-4 virtual cpu's in Microsoft Azure. Note, this step can be skipped if you are installing it on a PC at your work location.
+This entire installation will be performed on a Virtual Machine created in Microsoft's cloud computing platform. Let's begin with creating a one running Window's 10 with 2-4 virtual cpu's in Microsoft Azure. Note, this step can be skipped if you are installing it on a PC at your work location.
 <p>
 <p>
 <img src="https://i.imgur.com/U1HVP9X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
