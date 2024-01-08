@@ -85,7 +85,7 @@ To do this open the control panel, select Programs and then click Turn Windows f
 
 **Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip).** 
 <p>
-Next create the directory C:\PHP. To do this go to the C:\ drive and create a new folder in it named PHP. Now unzip the contents of PHP 7.3.8 into C:\PHP.
+Next create the directory C:\PHP. To do this go to the C:\ drive and create a new folder in it named PHP. Now download PHP 7.3.8 -> unzip and extract the contents of it into C:\PHP.
 <p>
 <p>
 <img src="https://imgur.com/q3GhlI2.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> 
