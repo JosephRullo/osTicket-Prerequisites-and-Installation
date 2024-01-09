@@ -326,4 +326,4 @@ Delete the "setup" folder located here C:\inetpub\wwwroot\osTicket. Finally set 
 </p>
 <br />
 
-<h2>All done, good job!!!</h2>
+<h2> <p align="center"> All done, good job!!!</h2>
