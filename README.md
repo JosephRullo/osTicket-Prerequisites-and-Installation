@@ -1,12 +1,12 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://imgur.com/C9d2T2j.png" height="80%" width="80%" alt="Disk Sanitization Steps alt="osTicket logo"/>
 </p>
-
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
-
-
-
+<h1> <p align="center"> osTicket - Prerequisites and Installation</h1> 
+<p align="center">
+<p align="center"> This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.
+<br />
+<br />
+<br /> 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Computer)
