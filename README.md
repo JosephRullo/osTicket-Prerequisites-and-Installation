@@ -39,7 +39,7 @@
 This entire installation will be performed on a Virtual Machine created in Microsoft's cloud computing platform. Let's begin with creating a one running Window's 10 with 2-4 virtual cpu's in Microsoft Azure. Note, this step can be skipped if you are installing it on a PC at your work location.
 <p>
 <p>
-<img src="https://i.imgur.com/U1HVP9X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/U1HVP9X.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -88,7 +88,7 @@ To do this open the control panel, select Programs and then click Turn Windows f
 Next create the directory C:\PHP. To do this go to the C:\ drive and create a new folder in it named PHP. Now download PHP 7.3.8 -> unzip and extract the contents of it into C:\PHP.
 <p>
 <p>
-<img src="https://imgur.com/q3GhlI2.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> 
+<img src="https://imgur.com/q3GhlI2.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 <br />
@@ -128,7 +128,7 @@ Now let's configure MySQL, a popular open source database. Download and install 
 Go to the start menu and type IIS, right click on it and select Run as Administrator.
 <p>
 <p>
-<img src="https://imgur.com/V9X2VDG.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/V9X2VDG.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -141,9 +141,9 @@ Go to the start menu and type IIS, right click on it and select Run as Administr
 Select PHP Manager from within IIS and click on Register new PHP version. In the Register new PHP window, select the CGI file that we installed in step 2. Now restart the IIS server by clicking on Restart in the upper right hand corner of the IIS window (as shown in the screenshot below).
 <p>
 <p>
-<img src="https://i.imgur.com/LueRyMH.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> 
-<img src="https://imgur.com/0oXHWnI.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> 
-<img src="https://i.imgur.com/8GtfKZz.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LueRyMH.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<img src="https://imgur.com/0oXHWnI.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/8GtfKZz.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -156,8 +156,8 @@ Select PHP Manager from within IIS and click on Register new PHP version. In the
 Now it's time to install osTicket. First download osTicket v1.15.8. From that download copy the folder labeled "upload" and paste it in this directory c:\inetpub\wwwroot. Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”. Go back to the IIS window and restart the IIS server again by clicking the Restart button in the upper right corner.
 <p>
 <p>
-<img src="https://imgur.com/ujtdN5L.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/anH14w0.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ujtdN5L.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/anH14w0.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -170,8 +170,8 @@ Now it's time to install osTicket. First download osTicket v1.15.8. From that do
 We can now open the osTicket install window by going to the IIS -> selecting the drop down folder under Connections (on the left side of the window) -> go to sites -> Default -> osTicket. Now click on “Browse *:80” under the browse folder all the way on the right. This will open a new web browser window with the osTicket installer menu.
 <p>
 <p>
-<img src="https://i.imgur.com/SCxVMYE.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> 
-<img src="https://imgur.com/31tJJAG.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SCxVMYE.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<img src="https://imgur.com/31tJJAG.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
