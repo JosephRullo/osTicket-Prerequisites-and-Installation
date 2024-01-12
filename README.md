@@ -142,6 +142,7 @@ Select PHP Manager from within IIS and click on Register new PHP version. In the
 <p>
 <p>
 <img src="https://i.imgur.com/LueRyMH.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/arILgVt.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 <img src="https://imgur.com/0oXHWnI.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 <img src="https://i.imgur.com/8GtfKZz.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
