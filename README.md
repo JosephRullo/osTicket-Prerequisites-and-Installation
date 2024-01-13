@@ -290,7 +290,7 @@ For the "System Settings" section enter a unique "Helpdesk Name" and "Default Em
 <p>
 <p>
 <p>
-<img src="https://imgur.com/PpU3YbU.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/bpctQAF.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 </p>
