@@ -244,11 +244,11 @@ Right click on C:\inetpub\wwwroot\osTicket\include\ost-config.php and select Pro
 
 **Assign Permissions (continued):**
 <p>
-Right click on C:\inetpub\wwwroot\osTicket\include\ost-config.php and select Properties. Go to the Security tab and choose Edit. In the Edit tab set Principal to Everyone -> Type: Allow -> Check all permission boxes.
+Right click on C:\inetpub\wwwroot\osTicket\include\ost-config.php and select Properties. Go to the Security tab and choose Edit. In the Edit tab set Principal to Everyone -> Type: Allow -> Check all permission boxes -> click OK.
 <p>
 <p>
 <p>
-<img src="https://i.imgur.com/racsNKa.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/h2LIJAh.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 </p>
