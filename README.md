@@ -300,7 +300,7 @@ For the "System Settings" section enter a unique "Helpdesk Name" and "Default Em
 
 **Congratulations**
 <p>
-osTicket setup is now complete! You can log in as the administrator using the following link (http://localhost/osTicket/scp/login.php)
+osTicket setup is now complete! You can log in as the administrator using the following link: http://localhost/osTicket/scp/login.php
 <p>
 <p>
 <p>
