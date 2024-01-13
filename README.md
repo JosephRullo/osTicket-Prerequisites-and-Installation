@@ -207,7 +207,7 @@ Note that some extensions are not enabled in the installer screen above. Go back
 observe the changes in the enabled extensions.
 <p>
 <p>
-<img src="https://imgur.com/IpbTHjx.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/PswXdwH.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 </p>
