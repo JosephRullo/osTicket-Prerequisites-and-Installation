@@ -103,6 +103,8 @@ Next create the directory C:\PHP. To do this go to the C:\ drive and create a ne
 
 **Download and install VC_redist.x86.exe (Microsoft Visual C ++)**
 <p>
+(https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+<p>
 <p>
 <img src="https://imgur.com/55Z0SVc.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
@@ -113,6 +115,8 @@ Next create the directory C:\PHP. To do this go to the C:\ drive and create a ne
 <h2>Step 7.</h2> 
 
 **Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi).**
+<p>
+(https://dev.mysql.com/downloads/mysql/5.5.html)
 <p> 
 Now let's configure MySQL, a popular open source database. Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi). Select Typical Setup when prompted and check the box for Launch Configuration Wizard (after install). Choose Standard Configuration -> Install as Windows Service -> choose a password and finish the install.
 <p>
