@@ -300,11 +300,11 @@ For the "System Settings" section enter a unique "Helpdesk Name" and "Default Em
 
 **Congratulations**
 <p>
-osTicket setup is now complete! You can log in as the administrator using the following link: http://localhost/osTicket/scp/login.php
+osTicket setup is now complete! You can log in as the administrator using the following link: (http://localhost/osTicket/scp/login.php)
 <p>
 <p>
 <p>
-<img src="https://i.imgur.com/BoeF714.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jYm6LWU.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/0KMrBI5.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 </p>
 </p>
