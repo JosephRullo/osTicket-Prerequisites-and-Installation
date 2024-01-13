@@ -320,11 +320,11 @@ Delete the "setup" folder located here C:\inetpub\wwwroot\osTicket. Finally set 
 <p>
 <p>
 <p>
-<img src="https://imgur.com/7Pu1Ijv.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
-<img src="https://imgur.com/EqLyFJM.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JDikWBn.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/4KzTyTC.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
 <br />
 
-<h2> <p align="center"> All done, good job!!!</h2>
+<h2> <p align="center"> This Concludes the osTicket Installation Tutorial. Good Job!!!</h2>
