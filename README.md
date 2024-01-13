@@ -270,6 +270,8 @@ Right click on C:\inetpub\wwwroot\osTicket\include\ost-config.php and select Pro
 
 **Download and install HeidiSQL**
 <p>
+(https://www.heidisql.com/download.php)
+<p>
 This will allow us to connect to the MySQL sever and setup a database that osTicket will use. After downloading and installing, Open Heidi SQL -> Click "New" on the bottom left corner to create a new session -> For the username type "root" and enter the same password used for MySQL that was created in step 7 -> Click "Open". Now we will create a new database named osTicket. To do this right click on the "Unamed" tab on the left hand side of the HeidiSQL window and select "Create new" -> select "Database" -> name it "osTicket" -> click ok.
 <p>
 <p>
