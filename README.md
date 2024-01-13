@@ -276,7 +276,7 @@ This will allow us to connect to the MySQL sever and setup a database that osTic
 <p>
 <p>
 <p>
-<img src="https://imgur.com/NqpYfeo.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/IvyhYmS.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 </p>
