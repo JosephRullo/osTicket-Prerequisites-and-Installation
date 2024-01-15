@@ -168,11 +168,12 @@ Select PHP Manager from within IIS and click on Register new PHP version. In the
 <p>
 (https://osticket.com/download/)
 <p> 
-Now it's time to install osTicket. First download osTicket v1.15.8. Once downloaded folder and copy the folder inside of it labeled "upload" and paste it in this directory c:\inetpub\wwwroot. Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”. Go back to the IIS window and restart the IIS server again by clicking the Restart button in the upper right corner.
+Now it's time to install osTicket. First download osTicket v1.15.8. Once downloaded copy the folder inside of it labeled "upload" and paste it in this directory c:\inetpub\wwwroot. Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”. Go back to the IIS window and restart the IIS server again by clicking the Restart button in the upper right corner.
 <p>
 <p>
-<img src="https://i.imgur.com/PytjrhI.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dELqHg5.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/bShIQez.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8GtfKZz.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
