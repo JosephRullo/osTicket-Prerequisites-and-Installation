@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/C9d2T2j.png" height="80%" width="80%" alt="Disk Sanitization Steps alt="osTicket logo"/>
+<img src="https://imgur.com/C9d2T2j.png" height="100%" width="100%" alt="Disk Sanitization Steps alt="osTicket logo"/>
 </p>
 <h1> <p align="center"> osTicket - Prerequisites and Installation</h1> 
 <p align="center">
