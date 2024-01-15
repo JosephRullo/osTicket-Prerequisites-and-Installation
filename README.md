@@ -49,9 +49,10 @@ This entire installation will be performed on a Virtual Machine created in Micro
 
 **Install / Enable IIS in Windows with CGI and Common HTTP Features.** 
 <p>
-To do this open the control panel, select Programs and then click Turn Windows features on or off. From here expand the folder labeled Internet Information Services -> Web Management Tools and check the box for IIS Management Console. Do the same for the folder labeled Internet Information Services -> World Wide Web Services -> Application Development Features and check the box for CGI, as well as checking the Common HTTP Features folder.
+To do this open the control panel, select Programs and then click "Turn Windows features on or off". From here expand the folder labeled Internet Information Services -> Web Management Tools and check the box for IIS Management Console. Do the same for the folder labeled Internet Information Services -> World Wide Web Services -> Application Development Features and check the box for CGI, as well as checking the Common HTTP Features folder.
 <p>
-<p>
+<img src="https://i.imgur.com/DIujP9h.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/K33PxLk.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/k6QTnHW.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/wotvBv2.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
