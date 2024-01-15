@@ -140,7 +140,6 @@ Go to the start menu and type IIS, right click on it and select Run as Administr
 <p>
 <p>
 <img src="https://i.imgur.com/FNhVUTm.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/V9X2VDG.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -153,6 +152,7 @@ Go to the start menu and type IIS, right click on it and select Run as Administr
 Select PHP Manager from within IIS and click on Register new PHP version. In the Register new PHP window, select the CGI file that we installed in step 2. Now restart the IIS server by clicking on Restart in the upper right hand corner of the IIS window (as shown in the screenshot below).
 <p>
 <p>
+<img src="https://i.imgur.com/Zp0OtuD.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/LueRyMH.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 <img src="https://i.imgur.com/arILgVt.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 <img src="https://imgur.com/0oXHWnI.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
