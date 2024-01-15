@@ -36,7 +36,7 @@
 
 **Create Azure Virtual Machine** 
 <p>
-This entire installation will be performed on a Virtual Machine created in Microsoft's cloud computing platform. Let's begin with creating a one running Window's 10 with 2-4 virtual cpu's in Microsoft Azure. Note, this step can be skipped if you are installing it on a PC at your work location.
+This entire installation will be performed on a Virtual Machine created in Microsoft's cloud computing platform (For a tutorial on setting up Virtual Machines click this link https://github.com/JosephRullo/Azure-Virtual-Machines-and-Networking). Let's begin with creating a one running Window's 10 with 2-4 virtual cpu's in Microsoft Azure. Note, this step can be skipped if you are installing it on a PC at your work location.
 <p>
 <p>
 <img src="https://i.imgur.com/U1HVP9X.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
