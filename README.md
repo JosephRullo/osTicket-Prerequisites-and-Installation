@@ -92,7 +92,7 @@ To do this open the control panel, select Programs and then click "Turn Windows 
 <p>
 (https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view?usp=share_link)
 <p>
-Next create the directory C:\PHP. To do this go to the C:\ drive and create a new folder in it named PHP. Now download PHP 7.3.8 -> unzip and extract the contents of it into C:\PHP.
+Next create the directory C:\PHP. To do this go to the C:\ drive and create a new folder in it named PHP. Now download PHP 7.3.8 -> Unzip and Extract the contents of it into C:\PHP.
 <p>
 <p>
 <img src="https://i.imgur.com/M1y1IYe.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
@@ -139,6 +139,7 @@ Now let's configure MySQL, a popular open source database. Download and install 
 Go to the start menu and type IIS, right click on it and select Run as Administrator.
 <p>
 <p>
+<img src="https://i.imgur.com/FNhVUTm.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/V9X2VDG.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
