@@ -337,7 +337,7 @@ Delete the "setup" folder located here C:\inetpub\wwwroot\osTicket. Finally set 
 <p>
 <p>
 <p>
-<img src="https://i.imgur.com/JDikWBn.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/vIfMsT2.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>  
 <img src="https://i.imgur.com/4KzTyTC.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
