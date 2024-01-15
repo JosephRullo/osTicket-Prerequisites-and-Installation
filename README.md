@@ -321,7 +321,7 @@ osTicket setup is now complete! You can log in as the administrator using the fo
 <p>
 <p>
 <p>
-<img src="https://i.imgur.com/T9HoTN6.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wMHKJHT.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/gprXh5g.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 </p>
 </p>
