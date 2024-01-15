@@ -235,7 +235,7 @@ observe the changes in the enabled extensions.
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php change this to: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 <p>
 <p>
-<img src="https://i.imgur.com/mOX8QFg.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/lEURFNX.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 </p>
